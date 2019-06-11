@@ -1,0 +1,269 @@
+
+*{
+    box-sizing: border-box;
+}
+
+
+/* .bio{
+    /* width: 106px;
+    height: 47px;
+    margin: 35px;
+    position: fixed; */
+} */
+#contact{
+    width: 959px;
+    height: 300px;
+    background: beige;
+    margin: 35px;
+    position: fixed;
+
+}
+.stut{
+    
+    height: 70px;
+    margin: auto;
+    margin-top: -35px;
+    width: 960px;
+}
+.top-right{
+    color: blue; 
+    width: 100%;
+    margin-left: 500px;
+    position: fixed;
+    /* float: inherit; */
+    margin-top: -43px;
+}
+#header{
+    font-family: Georgia;
+    width: 315px;
+    height: 44px;
+    text-align: center;
+    float: left;
+    position: static;
+    /* margin-right: -10px; */
+    margin-top: 21px;
+    margin-left: -29px;
+    /* color: beige; */
+    /* margin-right: 48px; */
+    margin-top: 52px;
+    color: white
+}
+#header1{
+    font-family: Georgia;
+    width: 315px;
+    height: 44px;
+    text-align: center;
+    float: left;
+    /* position: fixed; */
+    /* margin-right: -10px; */
+    margin-top: 27px;
+    color: black;
+}
+    
+
+p{
+    padding: 35px;
+    /* width: 650px; */
+    /* position: absolute; */
+    margin-left: 193px;
+    margin-top: 8px;
+    background-color: beige;
+    /* color: black; */
+    /* height: 200px; */
+}
+/* #about-me{
+    /* position: absolute;
+    margin-left: 0px;
+    margin-top: 10px; */
+/* } */ 
+img{
+    width: 215px;
+    float: left;
+    height: 193px;
+}
+#subject{
+    height: 217px;
+    /* float: left; */
+    margin-top: 2px;
+    position: auto;
+    width: 498px;
+    /* margin-right: 12px; */
+    margin-left: 49px;
+}
+.courtney{
+    margin-left: 51px;
+    position: absolute;
+}
+#Contact-Information{
+    margin-left: 51px;
+}
+#GSW{
+    margin-left: 47px;
+    margin-top: 17px;
+}
+.images{
+    position: absolute;
+    margin-top: 113px;
+    margin-left: 81px;
+}
+#header3{
+    position: absolute;
+    margin: inherit;
+    margin-left: -82px;
+}
+#h2{
+    position: absolute;
+    margin-top: 90px;
+    margin-left: 109px;
+    margin-left: 420px;
+    font-size: -webkit-xxx-large;
+    color: white;
+}
+#header2{
+    font-family: Georgia;
+    width: 315px;
+    height: 44px;
+    text-align: center;
+    float: left;
+    /* position: fixed; */
+    /* margin-right: -10px; */
+    margin-top: 21px;
+    margin-left: -29px;
+    color: white;
+    margin-right: 39px;
+    margin-top: 64px;
+}
+
+.top-right-index{
+    float: right;
+    margin-top: 21px;
+    margin-right: 149px;
+    background-color: beige;
+}
+.top-right2{
+    float: right;
+    margin-top: 27px;
+    color: white;
+}
+
+#header4{
+font-family: Georgia;
+    width: 315px;
+    height: 44px;
+    text-align: center;
+    float: left;
+    margin-top: 52px;
+    color: white;
+    margin-left: -84px;
+}
+#h3{
+    color: white;
+    float: left;
+    margin-left: 100px;
+    margin-top: 16px;
+}
+#p4-portfolio{
+    color: white;
+    /* float: none; */
+    /* margin-right: 11px; */
+    margin-left: -178px;
+    background-color: blue;
+    /* width: 200px; */
+    /* margin: unset; */
+    position: absolute;
+    height: 22px;
+    margin-top: 90px;
+}
+/* .column{
+    position: relative;
+    margin: 20px 10px;
+    border: 3px solid #dddddd;
+    float: left;
+    width: 35%;
+    height: 35%;
+} */
+
+/* @media screen and (max-width: 980px){
+    body{
+        /* flex-direction: column; */
+        background-color: aqua;
+        /* width: 100%; */
+        padding: 20px;
+        }
+
+        .bio {
+        /* width: 100%; */
+        padding: 20px;
+        }
+        /* .top-right{
+            width: 100%;
+            position: fixed;
+        }
+        
+        #about-me{
+            width: 100%;
+            padding: 20px;
+        } */
+}
+    
+
+    
+        
+
+@media screen and (max-width: 768px){
+    body{
+        flex-direction: row-reverse;
+        background-color: crimson;
+        width: 100%;
+        padding: 20px; */
+    }
+    .top-right{
+        width: 100%;
+        position: fixed;
+    }
+    
+    #about-me{
+        width: 100%;
+        padding: 20px;
+    }
+    /* #b2{
+        flex-direction: column;
+
+    } */
+
+    .container{
+        flex-direction: row;
+    }
+}
+
+@media screen and (min-width: 900px){
+    body{
+        flex-direction: row;
+        background-color: dimgrey;
+        width: 100%;
+        padding: 35px;
+    }
+    .top-right{
+        width: 50%;
+        position: fixed;
+    }
+    
+    #about-me{
+        width: 50%;
+        padding: 20px;
+    }
+} */
+
+
+        
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
